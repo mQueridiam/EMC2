@@ -1,4 +1,4 @@
 businessMC
 ==========
 
-Business Models &amp; Controllers for Laravel 4
+Business Models &amp; Controllers for Laravel.
